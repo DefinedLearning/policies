@@ -43,7 +43,7 @@ and explains our practices regarding the collection, use, disclosure,
 and protection of personal information as well as your choices regarding
 the collection and use of information. Capitalized terms that are not
 defined in this Privacy Policy have the meaning given them in our [Terms of
-Use](terms.md). Your use of the Defined STEM Service constitutes your agreement to
+Use](termsofuse.md). Your use of the Defined STEM Service constitutes your agreement to
 the Defined STEM Terms of Use and to this Privacy Policy.
 
 ### 1. How We Collect Personal Information
