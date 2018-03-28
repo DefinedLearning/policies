@@ -1,2 +1,3 @@
-# policies
-Defined Learning Open Source Policies
+# Defined Learning - Defined STEM Terms and Policies
+## [Privacy Policy](privacypolicy.md)
+## [Terms of Use](termsofuse.md)
