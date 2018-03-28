@@ -334,7 +334,7 @@ purposes.
 If you are a parent, teacher, or school administrator and would like to
 request access information relating to a student or minor who may appear in
 User Submissions that has been posted on the Service, please contact us at
-<privacy@Definedlearning.com> and we will do our best to assist you. User Submissions
+<privacy@definedlearning.com> and we will do our best to assist you. User Submissions
 are owned and controlled by our Users, who are responsible for obtaining all
 appropriate consents necessary to collect and share the User Submissions with
 the Defined STEM Service.
@@ -346,7 +346,7 @@ Act (“COPPA”). Defined Learning does not knowingly collect personal
 information through the Defined STEM Service from a child under 13, unless a User
 has affirmed that she has obtained appropriate consent from the child’s
 school or teacher to post such information to the Service. Please contact us at
-<privacy@Definedlearning.com> if you believe we have inadvertently collected personal
+<privacy@definedlearning.com> if you believe we have inadvertently collected personal
 information from a child under 13 without proper consents so that we may delete
 such information as soon as possible.
 
