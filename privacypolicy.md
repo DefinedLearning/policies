@@ -13,6 +13,9 @@ Privacy Policy
 * Defined STEM will collect, use, share and retain Student Data only for purposes
 for which we are authorized by the Educational Institution or teacher
 
+* Defined STEM will use the minimum amount of Student Data necessary to provide
+the service
+
 * Defined STEM does not sell Student Data
 
 * Defined STEM does not use Student Data for targeted advertising purposes
@@ -57,15 +60,14 @@ __A. Information you provide.__ We ask for certain information when a teacher,
 student-teacher, school administrator or other individual (our “Users” or
 “User”) registers for a Defined STEM account or corresponds with us online,
 which could include your first and last name, email address, profile picture,
-user name and password, billing and payment information, and/or any additional
-personal information you voluntarily provide in your Defined STEM profile, which
-could include, but is not limited to, your school name and location, your
-coursework or degree information, what grade level and subject matter you
-teach, your position within the school, and similar information. We collect
-personal information if you send us a message or respond to emails and surveys.
-We may also collect information about your friends and colleagues that you
-invite to join the Service or to view your content on the Service. We use this
-contact information to send the invitations and reminder emails, and other
+user name and password, and/or any additional personal information you voluntarily 
+provide in your Defined STEM profile, which could include, but is not limited to, 
+your school name and location, your coursework or degree information, what grade 
+level and subject matter you teach, your position within the school, and similar
+information. We collect personal information if you send us a message or respond to 
+emails and surveys. We may also collect information about your friends and colleagues 
+that you invite to join the Service or to view your content on the Service. We use
+this contact information to send the invitations and reminder emails, and other
 communications.
 
 __B. Information collected through the use of the Service.__ Once the User has
@@ -183,8 +185,8 @@ For example, User Submissions may be shared between Users to facilitate
 feedback and training to improve learning outcomes. Sharing within the Service
 will depend on the settings and functionality selected by the User. We only
 share personal information with third parties in limited circumstances,
-described below. __We will never share, use or sell Student Data or User
-Submissions with third parties for marketing purposes.__
+described below. __We will never share, use or sell Student Data with third parties 
+for marketing purposes. __
 
 The Defined STEM Service uses and shares your personal information in the following
 ways:
@@ -269,14 +271,13 @@ on the “unsubscribe” button within the body of the email at any time.
 ### 4. Links to Other Websites
 
 The Defined STEM Service and our email communications may contain links to other
-websites or services. These other websites and services are not under R3
-Collaboratives’ control, and such links do not constitute an endorsement by
-Defined Learning of those other websites. The privacy and security practices
-of websites linked to or from the Service are not covered by this Privacy
-Policy, and Defined Learning is not responsible for the privacy or security
-practices or the content of such websites. Moreover, Defined Learning is not
-responsible for any third party links which may be provided in User Submissions
-by our Users. We encourage you to learn about the privacy practices of any
+websites or services. These other websites and services are not under Defined Learning’s 
+control, and such links do not constitute an endorsement by Defined Learning of those 
+other websites. The privacy and security practices of websites linked to or from the 
+Service are not covered by this Privacy Policy, and Defined Learning is not responsible 
+for the privacy or security practices or the content of such websites. Moreover, Defined 
+Learning is not responsible for any third party links which may be provided in User 
+Submissions by our Users. We encourage you to learn about the privacy practices of any
 third party website or service before providing them with personal information.
 
 ### 5. Our Security and Data Storage Practices
@@ -314,7 +315,8 @@ until Defined Learning receives a deletion request from the User. In the
 future, Defined Learning may delete dormant accounts and User Submissions,
 subject to storage constraints.
 
-To delete an account, please contact us at <technology@definedlearning.com>. Defined Learning will promptly delete or de-identify the account, including the
+To delete an account, please contact us at <privacy@definedlearning.com>. 
+Defined Learning will promptly delete or de-identify the account, including the
 User Submissions within the account, within thirty (30) days of such request
 or instruction, though we may retain and use certain information if necessary
 to comply with our legal obligations, resolve disputes, and enforce our
@@ -383,8 +385,9 @@ revised Privacy Policy means that you consent to the changes.
 
 Notwithstanding the foregoing, we will not make any material changes to this
 Privacy Policy that relate to the collection or use of Student Data without first
-giving notice to the School, via email or another notification method of our choosing, and providing a choice before Student Data is used in
-a materially different manner than was disclosed when the information was collected.
+giving notice to the School, via email or another notification method of our choosing, 
+and providing a choice before Student Data is used in a materially different manner 
+than was disclosed when the information was collected.
 
 ### 9. Contact Us
 
