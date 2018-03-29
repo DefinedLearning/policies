@@ -26,6 +26,13 @@ protect the types of Student Data maintained by Defined STEM
 * Defined STEM will clearly and transparently disclose our data policies and
 practices
 
+* Defined STEM currently asks for the following student data from districts, 
+schools, and teachers: First name, last name, student id, username, password, 
+grade, school, classes, teachers, email, and district. Certain features may
+limited if data is not provided. Data may be provided by user input, through
+3rd party authentication systems (Portals, LMS, SIS, etc.), or standardized CSV 
+files. 
+
 * We will not make any material changes to our Privacy Policy or Terms of Use
 that relate to the collection or use of Student Data without first giving
 notice and providing a choice before the Student Data is used in a materially
@@ -104,7 +111,7 @@ from “educational records” as defined by the Family Educational Rights
 and Privacy Act (“FERPA”), 20 U.S.C. § 1232(g) (“Student Data”). We
 consider Student Data to be highly confidential, and we utilize this data only
 to provide our Service and as permitted in this Privacy Policy and [Terms of
-Use](terms.md).
+Use](termsofuse.md).
 
 __E. Information Relating to Non-Users, including K12 Students.__ As part of
 the Service, our Users, including teachers and teachers-in-training (“Student
@@ -154,25 +161,24 @@ you before accepting a cookie from the sites you visit by editing your browser
 options. If you decide not to accept our cookies, you may not be able to use
 some of the Service’s features and functionality.
 
-__G. Third Party Tracking and Online Advertising:__ We may permit third party
-online advertising networks to collect information about your use of our
-Services over time so that they may play or display ads that may be relevant
-to your interests on our website as well as on other websites or services. You
-may be able to avoid the collection of information through cookies or other
-tracking technology for advertising purposes by actively managing the settings
-on your browser or mobile device to delete or not accept cookies. Please refer
-to your browser’s or mobile device’s technical information for instructions
-on how to delete and disable cookies, and other tracking/recording tools. (To
-learn more about cookies, clear gifs/web beacons and related technologies
+__G. Third Party Tracking:__ We may permit third party
+services to collect information about your use of our Services over time so 
+that they may be able to enhance and/or customize features specifically to you.
+You may be able to avoid the collection of information through cookies or other 
+tracking technology by actively managing the settings on your browser or 
+mobile device to delete or not accept cookies. Please refer to your browser’s 
+or mobile device’s technical information for instructions on how to delete and 
+disable cookies, and other tracking/recording tools. (To learn more about 
+cookies, clear gifs/web beacons and related technologies
 and how you may opt-out of some of this tracking, you may wish to visit
 <http://www.allaboutcookies.org> and/or the Network Advertising Initiative’s
 online resources, at <http://www.networkadvertising.org>). Depending on your
 mobile device, you may not be able to control tracking technologies through
-settings.
+settings. 
 
-__Please note that although we may permit third party advertising partners to
+__Please note that although we may permit third party services to
 collect information on our Defined STEM website for the purpose of sending targeted
-advertisements, we do not allow third party advertising networks to collect
+information, we do not allow third party services to collect
 information about students or teachers who are logged into our Service for the
 purpose of sending targeted advertisements.__
 
@@ -192,8 +198,8 @@ The Defined STEM Service uses and shares your personal information in the follow
 ways:
 
 A. With your consent. We share information with your consent and at your
-direction. The Service is a communication tool that permits and encourages
-data sharing and communication between Users. A User may control which other
+direction. The Service contains a communication tool that permits and encourages
+data sharing and communication between Users and students. A User may control which other
 Users may access her User Submissions, and may invite and authorize non-users
 to access her User Submissions. By accessing and using the Service through a
 license provided by an educational institution, employer, or other third party
