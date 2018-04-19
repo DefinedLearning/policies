@@ -17,11 +17,14 @@ for which we are authorized by the Educational Institution or teacher
 the service
 
 * Defined STEM does not sell Student Data
+ 
+* Defined STEM does not use Student Data for any targeted advertising purposes
 
-* Defined STEM does not use Student Data for targeted advertising purposes
-
-* Defined STEM will maintain a comprehensive data security program designed to
-protect the types of Student Data maintained by Defined STEM
+* Defined STEM will maintain a comprehensive data security program designed to 
+protect the security, privacy, confidentiality, and integrity of student personal 
+information against risks – such as unauthorized access or use, or unintended or 
+inappropriate disclosure – through the use of administrative, technological, and 
+physical safeguards appropriate to the sensitivity of the information.
 
 * Defined STEM will clearly and transparently disclose our data policies and
 practices
@@ -31,7 +34,10 @@ schools, and teachers: First name, last name, student id, username, password,
 grade, school, classes, teachers, email, and district. Certain features may
 limited if data is not provided. Data may be provided by user input, through
 3rd party authentication systems (Portals, LMS, SIS, etc.), or standardized CSV 
-files. 
+files. Student profiles are not kept for any non-educational purpose
+
+* Defined STEM will not retain student personal information for longer than necessary
+to deliver the service. 
 
 * We will not make any material changes to our Privacy Policy or Terms of Use
 that relate to the collection or use of Student Data without first giving
